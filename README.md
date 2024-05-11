@@ -3,6 +3,7 @@
 The codebase is built upon the foundations provided by a tutorial from freeCodeCamp (https://www.youtube.com/watch?v=PXMJ6FS7llk&t=6093s) 
 
 ## Key Skills Demonstrated:
+### Excel reporting
 1. Automating Excel reporting with Python
 2. Utilising Python libraries such as openpyxl and pandas
 3. Creating Pivot Tables programmatically
@@ -13,3 +14,6 @@ The codebase is built upon the foundations provided by a tutorial from freeCodeC
 8. Converting scripts to executable files (py to exe) and generating reports with a single click
 9. Streamlining repetitive tasks in data analysis and reporting
 
+### News automation
+1. Web Scraping
+2. Utilising Task Scheduler on Windows to automate script execution at predefined intervals
